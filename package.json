@@ -1,12 +1,1 @@
-{
-    "name": "@laraveldesign/cookie-consent",
-    "version": "1.0.0",
-    "description": "Cookie consent banner for Laravel",
-    "main": "resources/js/vue/index.js",
-    "module": "resources/js/vue/index.js",
-    "files": ["resources/js/vue"],
-    "keywords": ["laravel", "cookie", "consent", "gdpr", "livewire", "vue"],
-    "author": "Shane Barron <mrshanebarron@gmail.com>",
-    "license": "MIT",
-    "peerDependencies": {"vue": "^3.0.0"}
-}
+{"name": "@mrshanebarron/cookie-consent", "version": "1.0.0", "main": "resources/js/index.js", "peerDependencies": {"vue": "^3.0.0"}}
