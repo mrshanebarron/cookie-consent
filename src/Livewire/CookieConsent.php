@@ -27,6 +27,6 @@ class CookieConsent extends Component
 
     public function render()
     {
-        return view('ld-cookie-consent::livewire.cookie-consent');
+        return view('sb-cookie-consent::livewire.cookie-consent');
     }
 }

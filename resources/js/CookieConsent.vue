@@ -18,7 +18,7 @@
 import { ref, onMounted } from 'vue';
 
 export default {
-  name: 'LdCookieConsent',
+  name: 'SbCookieConsent',
   props: {
     message: { type: String, default: 'We use cookies to enhance your experience. By continuing to visit this site you agree to our use of cookies.' },
     acceptText: { type: String, default: 'Accept' },
